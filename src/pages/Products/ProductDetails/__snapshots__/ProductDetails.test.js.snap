@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductDetails renders correctly 1`] = `
+<div
+  className="spinner-border text-success mt-5"
+  role="status"
+/>
+`;

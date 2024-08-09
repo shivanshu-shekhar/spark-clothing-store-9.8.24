@@ -1,0 +1,13 @@
+a:visited {
+  color: #181614;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+.carousel-items {
+  border: 3px black solid;
+  border-radius: 10px;
+}

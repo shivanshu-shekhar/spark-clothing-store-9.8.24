@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="mt-5"
+>
+  <h1
+    className="text-center"
+  >
+    Page not Found Error 404
+    <img
+      alt="page not found logo"
+      className="mt-3"
+      src="page-not-found.jpg"
+    />
+    <p>
+      Navigate to Home Page
+    </p>
+    <a
+      aria-current="page"
+      className="active"
+      href="#/"
+      onClick={[Function]}
+    >
+      <button
+        className="border rounded-pill"
+        data-testid="goHome"
+      >
+        Home
+      </button>
+    </a>
+  </h1>
+</div>
+`;

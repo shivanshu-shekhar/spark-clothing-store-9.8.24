@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Products renders correctly 1`] = `
+<div
+  className="product-wrapper center-align mt-5"
+>
+  <div
+    className="text-center"
+  >
+    <button
+      className="btn btn-primary mx-2 my-3"
+      data-testid="all"
+      onClick={[Function]}
+    >
+      All
+    </button>
+    <button
+      className="btn btn-primary mx-2 my-3"
+      data-testid="btnMen"
+      onClick={[Function]}
+    >
+      Men's Wear
+    </button>
+    <button
+      className="btn btn-primary mx-2 my-3"
+      data-testid="women"
+      onClick={[Function]}
+    >
+      Women's Wear
+    </button>
+    <button
+      className="btn btn-primary mx-2 my-3"
+      data-testid="kid"
+      onClick={[Function]}
+    >
+      Kid's Wear
+    </button>
+  </div>
+  <div
+    className="row"
+  />
+</div>
+`;
