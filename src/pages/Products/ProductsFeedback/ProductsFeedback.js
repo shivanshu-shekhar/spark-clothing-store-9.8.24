@@ -83,7 +83,6 @@ const ProductsFeedback = (props) => {
         <Modal.Title id="contained-modal-title-vcenter">
           <img
             src={feedbackImg}
-            alt="feedback image"
             data-testid="feedbackImage"
             style={{
               height: "200px",
