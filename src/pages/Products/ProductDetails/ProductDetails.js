@@ -70,6 +70,7 @@ const ProductDetails = () => {
       <div className="card">
         <img
           className="card-img-top"
+           alt="card-image-cap"
           src={data.img}
           width="100"
           height="1000"
