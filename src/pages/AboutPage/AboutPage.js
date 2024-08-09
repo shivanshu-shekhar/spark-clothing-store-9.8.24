@@ -41,7 +41,7 @@ const AboutPage = () => {
       {/* aboutus image is imported from the assets */}
       <div className="accordion mt-3" id="accordionExample">
         <div className="accordion-item">
-        <img src={aboutpagelogo} width='900'></img>
+        <img src={aboutpagelogo} alt='about-us-image' width='900'></img>
           <h2 className="accordion-header" id="headingOne">
             <button
               className="accordion-button"
